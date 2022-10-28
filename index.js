@@ -13,7 +13,6 @@ class CableValues {
     }
 }
 
-
 dostuff();
 
 function dostuff() {
