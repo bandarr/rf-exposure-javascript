@@ -18,7 +18,7 @@ dostuff();
 
 function dostuff() {
     let xmtr_power = 1000;
-    let feedline_length = 873;
+    let feedline_length = 73;
     let duty_cycle = .5;
     let cable_values = new CableValues(0.122290, 0.000260);
     let per_30 = .5
